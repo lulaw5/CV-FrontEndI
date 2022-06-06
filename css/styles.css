@@ -1,0 +1,13 @@
+img {
+    width: 100px;
+}
+header {
+    text-align: center;
+}
+h1, h3 {
+    background-color: #cccaca;
+}
+footer {
+    background-color: #fca7a7;
+    text-align: center;
+}
